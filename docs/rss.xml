@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Breezing's blog</title><link>https://breezing1422.github.io</link><description>技术分享</description><copyright>Breezing's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/44138182?v=4</url><title>avatar</title><link>https://breezing1422.github.io</link></image><lastBuildDate>Sat, 29 Jun 2024 17:58:09 +0000</lastBuildDate><managingEditor>Breezing's blog</managingEditor><ttl>60</ttl><webMaster>Breezing's blog</webMaster><item><title>博客构建步骤与自定义操作</title><link>https://breezing1422.github.io/post/bo-ke-gou-jian-bu-zou-yu-zi-ding-yi-cao-zuo.html</link><description>## 创建仓库&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Breezing's blog</title><link>https://breezing1422.github.io</link><description>技术分享</description><copyright>Breezing's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/44138182?v=4</url><title>avatar</title><link>https://breezing1422.github.io</link></image><lastBuildDate>Sat, 29 Jun 2024 18:01:06 +0000</lastBuildDate><managingEditor>Breezing's blog</managingEditor><ttl>60</ttl><webMaster>Breezing's blog</webMaster><item><title>博客构建步骤与自定义操作</title><link>https://breezing1422.github.io/post/bo-ke-gou-jian-bu-zou-yu-zi-ding-yi-cao-zuo.html</link><description>## 创建仓库&#13;
 + 点击[通过模板创建仓库](https://github.com/new?template_name=Gmeek-template&amp;template_owner=Meekdai)&#13;
 ## 域名修改&#13;
 + 将Repository name改为【用户名】.github.io，获得一个免费的github域名&#13;
@@ -11,7 +11,7 @@
 + 发布第一个issue：注意labels中选择documentation标签&#13;
 + 接下来在项目readme里可以看到分配好的域名和博客链接&#13;
 &#13;
-## 博客参数修改———[其他自定义](https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html)&#13;
+## 博客参数修改———[自定义操作官方文档](https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html)&#13;
 + config.json&#13;
 &#13;
 ## 手动全局更新更新操作&#13;
