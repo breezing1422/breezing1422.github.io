@@ -1,2 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Breezing's blog</title><link>https://breezing1422.github.io</link><description>技术分享</description><copyright>Breezing's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/44138182?v=4</url><title>avatar</title><link>https://breezing1422.github.io</link></image><lastBuildDate>Sat, 29 Jun 2024 17:35:59 +0000</lastBuildDate><managingEditor>Breezing's blog</managingEditor><ttl>60</ttl><webMaster>Breezing's blog</webMaster><item><title>博客构建步骤</title><link>https://breezing1422.github.io/post/bo-ke-gou-jian-bu-zou.html</link><description>首先进入[Gmeek](https://github.com/Meekdai/Gmeek)项目页面，点击[通过模板创建仓库](https://github.com/new?template_name=Gmeek-template&amp;template_owner=Meekdai)，将Repository name改为【用户名】.github.io，获得一个免费的github域名，进入settings在page中选择github actions构建，然后发布第一个issue就ok，接下来在code的readme可以看到分配好的域名。</description><guid isPermaLink="true">https://breezing1422.github.io/post/bo-ke-gou-jian-bu-zou.html</guid><pubDate>Sat, 29 Jun 2024 17:27:13 +0000</pubDate></item><item><title>hello</title><link>https://breezing1422.github.io/post/hello.html</link><description>hello。</description><guid isPermaLink="true">https://breezing1422.github.io/post/hello.html</guid><pubDate>Sat, 29 Jun 2024 17:24:08 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Breezing's blog</title><link>https://breezing1422.github.io</link><description>技术分享</description><copyright>Breezing's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/44138182?v=4</url><title>avatar</title><link>https://breezing1422.github.io</link></image><lastBuildDate>Sat, 29 Jun 2024 17:40:13 +0000</lastBuildDate><managingEditor>Breezing's blog</managingEditor><ttl>60</ttl><webMaster>Breezing's blog</webMaster><item><title>博客构建步骤</title><link>https://breezing1422.github.io/post/bo-ke-gou-jian-bu-zou.html</link><description>## 创建仓库&#13;
++ 点击[通过模板创建仓库](https://github.com/new?template_name=Gmeek-template&amp;template_owner=Meekdai)&#13;
+## 域名修改&#13;
++ 将Repository name改为【用户名】.github.io，获得一个免费的github域名&#13;
+&#13;
+&gt; 注意用户名需完全匹配github账号的用户名&#13;
+&#13;
+## 博客初始化构建&#13;
++ 进入settings在page中选择github actions构建，&#13;
++ 发布第一个issue：注意labels中选择documentation标签&#13;
++ 接下来在项目readme里可以看到分配好的域名和博客链接&#13;
+## 博客参数修改&#13;
++ config.json。</description><guid isPermaLink="true">https://breezing1422.github.io/post/bo-ke-gou-jian-bu-zou.html</guid><pubDate>Sat, 29 Jun 2024 17:27:13 +0000</pubDate></item><item><title>hello</title><link>https://breezing1422.github.io/post/hello.html</link><description>hello。</description><guid isPermaLink="true">https://breezing1422.github.io/post/hello.html</guid><pubDate>Sat, 29 Jun 2024 17:24:08 +0000</pubDate></item></channel></rss>
